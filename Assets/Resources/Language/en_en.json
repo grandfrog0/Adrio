@@ -1,0 +1,261 @@
+{
+    "name": "en_en",
+    "sections": {
+        "pairs": [
+            {
+                "_key": "event_message_headers",
+                "_value": {
+                    "content": {
+                        "pairs": [
+                            {
+                                "_key": "achievement",
+                                "_value": "New achievement!"
+                            },
+                            {
+                                "_key": "item",
+                                "_value": "A new item has been received!"
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "_key": "event_messages",
+                "_value": {
+                    "content": {
+                        "pairs": [
+                            {
+                                "_key": "dark_snowman_clicked",
+                                "_value": "The curse is closer than you think."
+                            },
+                            {
+                                "_key": "jenny_saved",
+                                "_value": "The companion"
+                            },
+                            {
+                                "_key": "boss_knight_completed",
+                                "_value": "Together again"
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "_key": "question_texts",
+                "_value": {
+                    "content": {
+                        "pairs": [
+                            {
+                                "_key": "menu_question0",
+                                "_value": "Put the items you received at special levels on your character!\nclick on the desired object and character or drag the object to it in the window. click on the character again to remove the item."
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "_key": "item_names",
+                "_value": {
+                    "content": {
+                        "pairs": [
+                            {
+                                "_key": "ball",
+                                "_value": "ball"
+                            },
+                            {
+                                "_key": "bow",
+                                "_value": "bow"
+                            },
+                            {
+                                "_key": "hat",
+                                "_value": "chokipie's hat"
+                            },
+                            {
+                                "_key": "clown_nose",
+                                "_value": "clown_nose"
+                            },
+                            {
+                                "_key": "cone",
+                                "_value": "cone"
+                            },
+                            {
+                                "_key": "jenny_glasses",
+                                "_value": "jenny's glasses"
+                            },
+                            {
+                                "_key": "key",
+                                "_value": "key"
+                            },
+                            {
+                                "_key": "pocket_stone",
+                                "_value": "pocket stone"
+                            },
+                            {
+                                "_key": "cursed_hat",
+                                "_value": "cursed hat"
+                            }
+                        ]
+                    }
+                }
+            }
+        ]
+    },
+    "scenes": {
+        "pairs": [
+            {
+                "_key": 0,
+                "_value": {
+                    "content": {
+                        "pairs": [
+                            {
+                                "_key": "Text (Element Sounds)",
+                                "_value": "sounds"
+                            },
+                            {
+                                "_key": "Text (Settings)",
+                                "_value": "settings"
+                            },
+                            {
+                                "_key": "Text (general)",
+                                "_value": "general"
+                            },
+                            {
+                                "_key": "Text (Element Music)",
+                                "_value": "music"
+                            },
+                            {
+                                "_key": "Text (menu)",
+                                "_value": "menu"
+                            },
+                            {
+                                "_key": "Text (Element Menu music)",
+                                "_value": "menu music"
+                            },
+                            {
+                                "_key": "Text (Element Language)",
+                                "_value": "language"
+                            },
+                            {
+                                "_key": "Text (Element Language Content 0)",
+                                "_value": "english"
+                            },
+                            {
+                                "_key": "Text (Element Language Content 1)",
+                                "_value": "russian"
+                            },
+                            {
+                                "_key": "Text (Personalization)",
+                                "_value": "personalization"
+                            },
+                            {
+                                "_key": "Text (No Items)",
+                                "_value": "you don't have any items yet.."
+                            },
+                            {
+                                "_key": "Text (Stuart)",
+                                "_value": "Stuart"
+                            },
+                            {
+                                "_key": "Text (Jenny)",
+                                "_value": "Jenny"
+                            },
+                            {
+                                "_key": "Text (Chokipie)",
+                                "_value": "Chokipie"
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "_key": 1,
+                "_value": {
+                    "content": {
+                        "pairs": [
+                            {
+                                "_key": "Text (Welcome)",
+                                "_value": "Welcome to the first level!"
+                            },
+                            {
+                                "_key": "Text (WASD)",
+                                "_value": "WASD or arrows"
+                            },
+                            {
+                                "_key": "Text (Try)",
+                                "_value": "For now, just figure out the controls and get to the end ;)"
+                            },
+                            {
+                                "_key": "Text (Good)",
+                                "_value": "That's all, it was easy. I don't think this is your first time playing platformers <3"
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "_key": 2,
+                "_value": {
+                    "content": {
+                        "pairs": [
+                            {
+                                "_key": "Text (HP)",
+                                "_value": "<- Watch out for hp"
+                            },
+                            {
+                                "_key": "Text (Super)",
+                                "_value": "<- The dash ability is open!"
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "_key": 3,
+                "_value": {
+                    "content": {
+                        "pairs": [
+                            {
+                                "_key": "Text (Stone)",
+                                "_value": "I understand that you really want to, but jumping on it is not the best idea..."
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "_key": 5,
+                "_value": {
+                    "content": {
+                        "pairs": [
+                            {
+                                "_key": "Text (Choice)",
+                                "_value": "You can select a character by pressing a key on your keyboard!"
+                            },
+                            {
+                                "_key": "Text (Warning)",
+                                "_value": "Go back and complete the level as planned, it's not safe here!"
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "_key": 8,
+                "_value": {
+                    "content": {
+                        "pairs": [
+                            {
+                                "_key": "Text (PressZ)",
+                                "_value": "Press z >"
+                            },
+                            {
+                                "_key": "Text (PressC)",
+                                "_value": "Press c >"
+                            }
+                        ]
+                    }
+                }
+            }
+        ]
+    }
+}

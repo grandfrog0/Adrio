@@ -1,0 +1,261 @@
+{
+    "name": "ru_ru",
+    "sections": {
+        "pairs": [
+            {
+                "_key": "event_message_headers",
+                "_value": {
+                    "content": {
+                        "pairs": [
+                            {
+                                "_key": "achievement",
+                                "_value": "Новое достижение!"
+                            },
+                            {
+                                "_key": "item",
+                                "_value": "Получен новый предмет!"
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "_key": "event_messages",
+                "_value": {
+                    "content": {
+                        "pairs": [
+                            {
+                                "_key": "dark_snowman_clicked",
+                                "_value": "Проклятие ближе, чем ты думаешь."
+                            },
+                            {
+                                "_key": "jenny_saved",
+                                "_value": "Компаньон"
+                            },
+                            {
+                                "_key": "boss_knight_completed",
+                                "_value": "Снова вместе"
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "_key": "question_texts",
+                "_value": {
+                    "content": {
+                        "pairs": [
+                            {
+                                "_key": "menu_question0",
+                                "_value": "надень на персонажа полученные на особых уровнях предметы!\nнажми на нужный предмет и персонажа, либо перетяни предмет к нему в окно. повторно нажми на персонажа, чтобы убрать предмет."
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "_key": "item_names",
+                "_value": {
+                    "content": {
+                        "pairs": [
+                            {
+                                "_key": "ball",
+                                "_value": "мяч"
+                            },
+                            {
+                                "_key": "bow",
+                                "_value": "бабочка"
+                            },
+                            {
+                                "_key": "hat",
+                                "_value": "шляпа чокипи"
+                            },
+                            {
+                                "_key": "clown_nose",
+                                "_value": "нос клоуна"
+                            },
+                            {
+                                "_key": "cone",
+                                "_value": "конус"
+                            },
+                            {
+                                "_key": "jenny_glasses",
+                                "_value": "очки дженни"
+                            },
+                            {
+                                "_key": "key",
+                                "_value": "ключ"
+                            },
+                            {
+                                "_key": "pocket_stone",
+                                "_value": "карманный камень"
+                            },
+                            {
+                                "_key": "cursed_hat",
+                                "_value": "проклятая шляпа"
+                            }
+                        ]
+                    }
+                }
+            }
+        ]
+    },
+    "scenes": {
+        "pairs": [
+            {
+                "_key": 0,
+                "_value": {
+                    "content": {
+                        "pairs": [
+                            {
+                                "_key": "Text (Element Sounds)",
+                                "_value": "звуки"
+                            },
+                            {
+                                "_key": "Text (Settings)",
+                                "_value": "настройки"
+                            },
+                            {
+                                "_key": "Text (general)",
+                                "_value": "общие"
+                            },
+                            {
+                                "_key": "Text (Element Music)",
+                                "_value": "музыка"
+                            },
+                            {
+                                "_key": "Text (menu)",
+                                "_value": "меню"
+                            },
+                            {
+                                "_key": "Text (Element Menu music)",
+                                "_value": "музыка меню"
+                            },
+                            {
+                                "_key": "Text (Element Language)",
+                                "_value": "язык"
+                            },
+                            {
+                                "_key": "Text (Element Language Content 0)",
+                                "_value": "английский"
+                            },
+                            {
+                                "_key": "Text (Element Language Content 1)",
+                                "_value": "русский"
+                            },
+                            {
+                                "_key": "Text (Personalization)",
+                                "_value": "персонализация"
+                            },
+                            {
+                                "_key": "Text (No Items)",
+                                "_value": "у тебя нет предметов. пока что.."
+                            },
+                            {
+                                "_key": "Text (Stuart)",
+                                "_value": "Стюарт"
+                            },
+                            {
+                                "_key": "Text (Jenny)",
+                                "_value": "Дженни"
+                            },
+                            {
+                                "_key": "Text (Chokipie)",
+                                "_value": "Чокипи"
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "_key": 1,
+                "_value": {
+                    "content": {
+                        "pairs": [
+                            {
+                                "_key": "Text (Welcome)",
+                                "_value": "Приветствую на первом уровне!"
+                            },
+                            {
+                                "_key": "Text (WASD)",
+                                "_value": "WASD или стрелки"
+                            },
+                            {
+                                "_key": "Text (Try)",
+                                "_value": "Пока просто разберись с управлением и дойди до конца ;)"
+                            },
+                            {
+                                "_key": "Text (Good)",
+                                "_value": "Ну вот, всё просто. ты ведь не впервые играешь в платформеры <3"
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "_key": 2,
+                "_value": {
+                    "content": {
+                        "pairs": [
+                            {
+                                "_key": "Text (HP)",
+                                "_value": "<- Следи за здоровьем"
+                            },
+                            {
+                                "_key": "Text (Super)",
+                                "_value": "<- Способность 'рывок' открыта!"
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "_key": 3,
+                "_value": {
+                    "content": {
+                        "pairs": [
+                            {
+                                "_key": "Text (Stone)",
+                                "_value": "Я понимаю, что очень хочется, но прыгать на него - не лучшая идея..."
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "_key": 5,
+                "_value": {
+                    "content": {
+                        "pairs": [
+                            {
+                                "_key": "Text (Choice)",
+                                "_value": "Ты можешь выбрать персонажа, нажав клавишу на клавиатуре!"
+                            },
+                            {
+                                "_key": "Text (Warning)",
+                                "_value": "Вернись назад и пройти уровень как задуманно, тут небезопасно!"
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "_key": 8,
+                "_value": {
+                    "content": {
+                        "pairs": [
+                            {
+                                "_key": "Text (PressZ)",
+                                "_value": "Нажми z >"
+                            },
+                            {
+                                "_key": "Text (PressC)",
+                                "_value": "Нажми c >"
+                            }
+                        ]
+                    }
+                }
+            }
+        ]
+    }
+}
